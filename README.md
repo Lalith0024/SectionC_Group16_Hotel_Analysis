@@ -174,11 +174,11 @@ Future Scope:
 
 ⸻
 
-👥 Team
-Kasula Lalithendra 
-Abhiman SIngh 
-Vridhi Chaudhary 
-Ritik Raj 
-Anant Singh 
-Rudraksh Sharma
+👥 Team - 
+Kasula Lalithendra ,
+Abhiman SIngh ,
+Vridhi Chaudhary ,
+Ritik Raj ,
+Anant Singh ,
+Rudraksh Sharma,
 
