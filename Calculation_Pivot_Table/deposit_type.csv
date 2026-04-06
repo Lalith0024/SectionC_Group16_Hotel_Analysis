@@ -1,0 +1,5 @@
+deposit_type,Total Bookings,Total Cancellations,Cancellation %
+Refundable,2,0.00,0.00%
+Non Refund,208,204.00,98.08%
+No Deposit,3126,885.00,28.31%
+Grand Total,3336,"1,089.00",32.64%

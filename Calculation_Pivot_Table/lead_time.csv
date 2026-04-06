@@ -1,0 +1,6 @@
+Lead_Time_Group,Total Bookings,Total Cancellations,Cancellation %
+0-30,"1,172",201,17.2%
+180+,579,310,53.5%
+31-90,877,305,34.8%
+91-180,708,273,38.6%
+Grand Total,"3,336","1,089",32.6%
